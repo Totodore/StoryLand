@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<main>
+    <personnages title="Personnages">
+    </personnages>
+    <lieux title="Lieux">
+</lieux>
+    <histoire_in title="Histoire en Jeu">
+    </histoire_in>
+    <histoire_out title="Histoire hors Jeu">
+    </histoire_out>
+    <cartes title="Cartes">
+    </cartes>
+    <chronologie title="Chronologie">
+    </chronologie>
+    <timeline>
+        <heading>
+            <head>
+                <start>0</start>
+                <end>5000</end>
+                <title>Le jour de ma vie !</title>
+            </head>
+        </heading>
+        <events>
+            <event>
+                <start>450</start>
+                <end>500</end>
+                <title>Mort de louis VXI</title>
+                <description>Le roi est mort</description>
+            </event>
+            <event>
+                <start>123</start>
+                <end>231</end>
+                <title>Test</title>
+                <description>Mar des erreurs !</description>
+            </event>
+        </events>
+    </timeline>
+</main>
